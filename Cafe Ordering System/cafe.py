@@ -1,5 +1,6 @@
 import time
 print("Welcome to the Mocha Magic Cafe\n")
+print("_________________________________")
 time.sleep(1)
 Menu={
     101:"Cappuccino ; $6",
